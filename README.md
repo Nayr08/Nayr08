@@ -1,217 +1,299 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d4f8b&height=220&section=header&text=Michael%20Ryan%20Arreglo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Researcher%20%7C%20IoT%20Engineer&descSize=16&descAlignY=55&descColor=58a6ff" width="100%"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+production-grade+web+apps+%26+IoT+systems;Published+IEEE+ML+Researcher+%F0%9F%94%AC;5%2C000%2B+images+annotated+for+AI+training;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Custom SVG Header -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="160" rx="16" fill="url(#headerGrad)"/>
+  <text x="400" y="65" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Michael Ryan Arreglo</text>
+  <text x="400" y="100" text-anchor="middle" fill="rgba(255,255,255,0.85)" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="400">Full-Stack Developer · AI Researcher · IoT Engineer</text>
+  <line x1="320" y1="115" x2="480" y2="115" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+  <text x="400" y="140" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Segoe UI, Arial, sans-serif" font-size="13">Digos City, Philippines · GMT+8 · Open to Remote Work</text>
+</svg>
 
 <br/>
 
-<!-- Quick Stats Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-arreglo)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayr08)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arreglo44@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Available_for_Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](#-contact)
+<a href="https://linkedin.com/in/ryan-arreglo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="25"/></a>&nbsp;&nbsp;
+<a href="mailto:arreglo44@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="25"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Nayr08"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25"/></a>
 
 </div>
 
----
+<br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nayr08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="400"/>
+## About
 
-### 🧑‍💻 About Me
+I'm a Computer Engineering student *(Cor Jesu College, graduating 2026)* who builds and ships real software. I've deployed a production web app serving **1,000+ users**, published peer-reviewed ML research at **IEEE IICAIET 2025**, annotated **5,000+ images** for computer vision, and engineered IoT systems with thermal imaging and edge computing. Currently expanding into test automation and frontend development.
 
-I'm a **BS Computer Engineering** student at Cor Jesu College, Philippines *(graduating 2026)* — building production software and conducting ML research.
+<br/>
 
-- 🔭 Built a **live education platform** serving **1,000+ users**
-- 🤖 Published at **IEEE IICAIET 2025** on real-time crop disease detection
-- 🏷️ Annotated **5,000+ images** for computer vision training
-- 🛰️ Engineered IoT systems with **thermal imaging** and **computer vision**
-- 🌱 Currently learning **Test Automation** (Selenium, Appium, Cucumber)
-- 🕐 **GMT+8** · Available **40 hrs/week** · Async-first workflow
+## Tech Stack
 
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-#### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-
-#### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### AI / ML & Annotation
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
-
-#### IoT & Hardware
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 📚 EduTag System
-**Live Educational Management Platform**
-
-Architected and deployed a production system serving **1,000+ active users** in real time. Designed the full database schema, authentication flow, and REST API endpoints from scratch. Managed deployment and post-launch maintenance independently.
-
-`Node.js` `Supabase` `REST API` `Auth`
+<!-- Languages SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="170" viewBox="0 0 340 170">
+  <rect width="340" height="170" rx="12" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="24" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#64748b" letter-spacing="1.5">LANGUAGES</text>
+  <line x1="24" y1="42" x2="316" y2="42" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- Java -->
+  <rect x="24" y="56" width="88" height="30" rx="6" fill="#ED8B00" opacity="0.12"/><text x="68" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#ED8B00">Java</text>
+  <!-- JavaScript -->
+  <rect x="120" y="56" width="100" height="30" rx="6" fill="#F7DF1E" opacity="0.15"/><text x="170" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#b8a000">JavaScript</text>
+  <!-- Python -->
+  <rect x="228" y="56" width="88" height="30" rx="6" fill="#3776AB" opacity="0.12"/><text x="272" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#3776AB">Python</text>
+  <!-- C++ -->
+  <rect x="24" y="96" width="64" height="30" rx="6" fill="#00599C" opacity="0.12"/><text x="56" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#00599C">C++</text>
+  <!-- HTML -->
+  <rect x="96" y="96" width="68" height="30" rx="6" fill="#E34F26" opacity="0.12"/><text x="130" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#E34F26">HTML5</text>
+  <!-- CSS -->
+  <rect x="172" y="96" width="64" height="30" rx="6" fill="#1572B6" opacity="0.12"/><text x="204" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#1572B6">CSS3</text>
+  <!-- SQL -->
+  <rect x="244" y="96" width="72" height="30" rx="6" fill="#336791" opacity="0.12"/><text x="280" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#336791">SQL</text>
+</svg>
 
 </td>
-<td width="50%">
+<td>
 
-### 🏔️ SummitPH Booking Platform
-**Interactive Web Booking System**
-
-Built a responsive booking platform with integrated **interactive mapping** via MapLibre. Focused on clean UI/UX principles, mobile responsiveness, and smooth user flows.
-
-`Vue.js` `MapLibre` `Responsive UI/UX`
+<!-- Frameworks SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="170" viewBox="0 0 340 170">
+  <rect width="340" height="170" rx="12" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="24" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#64748b" letter-spacing="1.5">FRAMEWORKS & TOOLS</text>
+  <line x1="24" y1="42" x2="316" y2="42" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- Vue -->
+  <rect x="24" y="56" width="72" height="30" rx="6" fill="#4FC08D" opacity="0.12"/><text x="60" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#4FC08D">Vue.js</text>
+  <!-- Node -->
+  <rect x="104" y="56" width="80" height="30" rx="6" fill="#339933" opacity="0.12"/><text x="144" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#339933">Node.js</text>
+  <!-- Flask -->
+  <rect x="192" y="56" width="68" height="30" rx="6" fill="#64748b" opacity="0.12"/><text x="226" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#64748b">Flask</text>
+  <!-- JavaFX -->
+  <rect x="268" y="56" width="52" height="30" rx="6" fill="#ED8B00" opacity="0.12"/><text x="294" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#ED8B00">JavaFX</text>
+  <!-- MapLibre -->
+  <rect x="24" y="96" width="84" height="30" rx="6" fill="#396CB2" opacity="0.12"/><text x="66" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#396CB2">MapLibre</text>
+  <!-- Leaflet -->
+  <rect x="116" y="96" width="76" height="30" rx="6" fill="#199900" opacity="0.12"/><text x="154" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#199900">Leaflet</text>
+  <!-- REST -->
+  <rect x="200" y="96" width="84" height="30" rx="6" fill="#7c3aed" opacity="0.12"/><text x="242" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#7c3aed">REST API</text>
+</svg>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
-### 🛒 Live Selling POS System
-**Desktop Retail Solution**
-
-Engineered a desktop POS system for a retail client, automating receipt generation and inventory reporting. Reduced manual tracking errors and streamlined daily sales operations.
-
-`JavaFX` `MySQL` `Desktop App`
-
-</td>
-<td width="50%">
-
-### 🤖 BotManu Surveillance Rover
-**Remote-Controlled IoT Robot**
-
-Developed a surveillance robot with **two-way audio/video streaming** and an auto return-to-home algorithm using computer vision.
-
-`Python` `Flask` `SocketIO` `OpenCV`
+<!-- Databases & Cloud SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="140" viewBox="0 0 340 140">
+  <rect width="340" height="140" rx="12" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="24" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#64748b" letter-spacing="1.5">DATABASES & CLOUD</text>
+  <line x1="24" y1="42" x2="316" y2="42" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- Supabase -->
+  <rect x="24" y="56" width="92" height="30" rx="6" fill="#3ECF8E" opacity="0.12"/><text x="70" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#3ECF8E">Supabase</text>
+  <!-- Firebase -->
+  <rect x="124" y="56" width="84" height="30" rx="6" fill="#FFCA28" opacity="0.15"/><text x="166" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#b8960a">Firebase</text>
+  <!-- MySQL -->
+  <rect x="216" y="56" width="100" height="30" rx="6" fill="#4479A1" opacity="0.12"/><text x="266" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#4479A1">MySQL</text>
+  <!-- PostgreSQL -->
+  <rect x="24" y="96" width="104" height="30" rx="6" fill="#336791" opacity="0.12"/><text x="76" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#336791">PostgreSQL</text>
+</svg>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td>
 
-### 🔥 Smart Smoke Detection
-**IoT Safety System**
-
-Built an IoT system using ESP32 that streams **real-time sensor data** to a web map interface via Leaflet API for fire safety monitoring.
-
-`ESP32` `Leaflet API` `Real-time Data`
-
-</td>
-<td width="50%">
-
-### 🐔 FlockEye Poultry Monitor
-**AI-Powered Farm Monitoring**
-
-Integrated **thermal imaging** (MLX90640) and environmental sensors with computer vision to detect heat stress and flock activity in real time.
-
-`ESP32` `MLX90640` `Python` `Computer Vision`
+<!-- AI & IoT SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="140" viewBox="0 0 340 140">
+  <rect width="340" height="140" rx="12" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="24" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#64748b" letter-spacing="1.5">AI / ML & IoT</text>
+  <line x1="24" y1="42" x2="316" y2="42" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- YOLOv8 -->
+  <rect x="24" y="56" width="80" height="30" rx="6" fill="#00BFFF" opacity="0.12"/><text x="64" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#0099cc">YOLOv8</text>
+  <!-- OpenCV -->
+  <rect x="112" y="56" width="80" height="30" rx="6" fill="#5C3EE8" opacity="0.12"/><text x="152" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#5C3EE8">OpenCV</text>
+  <!-- Roboflow -->
+  <rect x="200" y="56" width="88" height="30" rx="6" fill="#6706CE" opacity="0.12"/><text x="244" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#6706CE">Roboflow</text>
+  <!-- ESP32 -->
+  <rect x="24" y="96" width="68" height="30" rx="6" fill="#E7352C" opacity="0.12"/><text x="58" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#E7352C">ESP32</text>
+  <!-- RPi -->
+  <rect x="100" y="96" width="108" height="30" rx="6" fill="#C51A4A" opacity="0.12"/><text x="154" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500" fill="#C51A4A">Raspberry Pi</text>
+  <!-- Edge -->
+  <rect x="216" y="96" width="100" height="30" rx="6" fill="#64748b" opacity="0.12"/><text x="266" y="116" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748b">Edge Computing</text>
+</svg>
 
 </td>
 </tr>
 </table>
-</div>
 
----
+<br/>
 
-## 🔬 Research & Publications
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 EduTag System
+
+Production educational management platform serving **1,000+ active users**. Designed the full database schema, auth flow, and REST APIs from scratch. Deployed and maintained independently.
+
+`Node.js` · `Supabase` · `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏔️ SummitPH
+
+Responsive web booking platform with integrated **interactive mapping** via MapLibre. Clean UI/UX, mobile-first design, smooth user flows.
+
+`Vue.js` · `MapLibre` · `UI/UX`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Live Selling POS
+
+Desktop POS system for a retail client. Automated receipt generation and inventory reporting. Reduced manual tracking errors significantly.
+
+`JavaFX` · `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 BotManu Rover
+
+Surveillance robot with **two-way audio/video streaming** and auto return-to-home algorithm using computer vision.
+
+`Python` · `Flask` · `OpenCV`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 Smart Smoke Detection
+
+IoT safety system streaming **real-time sensor data** to a web map interface for fire monitoring.
+
+`ESP32` · `Leaflet API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐔 FlockEye
+
+Poultry monitoring with **thermal imaging** (MLX90640) and environmental sensors. Detects heat stress and flock activity in real time.
+
+`ESP32` · `MLX90640` · `Python`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Research
 
 <div align="center">
 
-| Status | Paper | Venue |
-|--------|-------|-------|
-| ✅ **Published** | *Real-Time Detection of Northern Corn Leaf Blight in Maize Using a Lightweight YOLOv8n Model* | **IEEE IICAIET 2025** |
-| 🔄 **Ongoing** | Automated maize leaf disease classification using deep learning instance segmentation with edge deployment on Raspberry Pi 4 | Thesis |
+<!-- Research SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="80" viewBox="0 0 720 80">
+  <rect width="720" height="80" rx="12" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="16" y="16" width="48" height="48" rx="8" fill="#2563eb" opacity="0.1"/>
+  <text x="40" y="48" text-anchor="middle" font-size="22">📄</text>
+  <text x="80" y="36" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#1e293b">IEEE IICAIET 2025 — Published</text>
+  <text x="80" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#64748b">Real-Time Detection of Northern Corn Leaf Blight in Maize Using a Lightweight YOLOv8n Model</text>
+</svg>
 
 </div>
 
----
+<br/>
 
-## 📊 AI & Data Annotation Experience
+## Data Annotation
 
 <div align="center">
 
-```
-📸 5,000+ Images Annotated    |    🏷️ Instance Segmentation & Bounding Box
-🔬 3 ML Projects              |    ✅ Inter-annotator Review & QA
-🎯 Edge Case Identification   |    📈 Model Accuracy Benchmarking
-🛠️ Tool: Roboflow             |    📋 Dataset Validation & Consistency
-```
+<!-- Stats SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="90" viewBox="0 0 720 90">
+  <rect width="720" height="90" rx="12" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
+  <!-- Stat 1 -->
+  <text x="120" y="40" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#2563eb">5,000+</text>
+  <text x="120" y="62" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#64748b">Images Annotated</text>
+  <!-- Divider -->
+  <line x1="240" y1="20" x2="240" y2="70" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- Stat 2 -->
+  <text x="360" y="40" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#7c3aed">3</text>
+  <text x="360" y="62" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#64748b">ML Projects</text>
+  <!-- Divider -->
+  <line x1="480" y1="20" x2="480" y2="70" stroke="#e2e8f0" stroke-width="1"/>
+  <!-- Stat 3 -->
+  <text x="600" y="40" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#059669">1,000+</text>
+  <text x="600" y="62" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#64748b">Active Users Served</text>
+</svg>
 
 </div>
 
----
+<br/>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nayr08&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayr08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="41%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nayr08&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nayr08&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayr08&show_icons=true&hide_border=true&count_private=true" width="48%"/>
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nayr08&theme=github-dark-blue&hide_border=true&background=00000000"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Nayr08&hide_border=true&background=00000000"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayr08&hide_border=true" width="48%"/>
+</picture>
 
 </div>
 
----
+<br/>
 
-## 🎯 2026 Roadmap
+## Currently Learning
+
+<div align="center">
+
+<!-- Learning SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="60" viewBox="0 0 720 60">
+  <rect width="720" height="60" rx="12" fill="#2563eb" opacity="0.06"/>
+  <text x="360" y="37" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#2563eb" font-weight="500">🧪 Test Automation — Selenium · Appium · Java · Cucumber · Spring &nbsp;&nbsp;|&nbsp;&nbsp; 🎨 Frontend Development</text>
+</svg>
+
+</div>
+
+<br/>
+
+## 2026 Goals
 
 - [x] Publish ML research at IEEE conference
-- [x] Build and deploy a production app (1,000+ users)
-- [ ] Complete test automation roadmap (Selenium + Appium + Cucumber + Spring)
+- [x] Deploy a production app serving 1,000+ users
+- [ ] Complete test automation roadmap
 - [ ] Land a Junior Test Automation Engineer role
 - [ ] Graduate BS Computer Engineering
-- [ ] Explore frontend development & UI/UX design
+- [ ] Build frontend projects & explore UI/UX
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d4f8b&height=120&section=footer" width="100%"/>
+<br/>
 
-**💬 Let's connect — I'm always open to collaboration and new opportunities!**
+*Open to remote work · Available 40 hrs/week · Async-first collaboration*
 
-[![LinkedIn](https://img.shields.io/badge/-Ryan_Arreglo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-arreglo)
-[![Email](https://img.shields.io/badge/-arreglo44@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arreglo44@gmail.com)
+<br/>
+
+<a href="https://linkedin.com/in/ryan-arreglo"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>&nbsp;&nbsp;
+<a href="mailto:arreglo44@gmail.com"><img src="https://img.shields.io/badge/Send_Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
 
 </div>
